@@ -1,3 +1,6 @@
+# Badges
+![Downloads](https://img.shields.io/github/downloads/henry-richard7/Kodi-World-TV-Addon/total.svg?style=for-the-badge&logo=github)
+
 # Kodi World TV Addon
  This Kodi addon has all TV Channels from around the World.
 
